@@ -297,7 +297,8 @@ p {
 
 /* Footer */
 #main-footer {
-  padding: 1rem;
+  padding: 0.25rem;
+  font-size: 0.7rem;
   text-align: center;
   color: var(--primary-color);
   background-color: var(--text-color);
